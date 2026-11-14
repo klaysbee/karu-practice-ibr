@@ -1,4 +1,5 @@
-*.log
-*.tmp
-.DS_Store
-Thumbs.db
+venv/
+__pycache__/
+*.pyc
+db.sglite3
+.env
